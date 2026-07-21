@@ -1,3 +1,3 @@
-# Este es el juego sereto 
+# Este es el juego secreto 
 ## En este juego se adivinan números 
 Este juego permite hacer dinámias
